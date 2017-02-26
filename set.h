@@ -1,3 +1,6 @@
+#include "process.h"
+#indef SET_H
+#define SET_H
 Class Set {
 public:
 MathSet(); //default constructor 
