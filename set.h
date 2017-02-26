@@ -1,5 +1,5 @@
 #include "process.h"
-#indef SET_H
+#ifndef SET_H
 #define SET_H
 Class Set {
 public:
