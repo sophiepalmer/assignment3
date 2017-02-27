@@ -1,3 +1,11 @@
+/*
+@file: main.cpp
+@author: Sophie Palmer
+@date: Feb 27 2017
+ Purpose:
+
+ 
+*/
 #include "set.h"
 int main ()
 {

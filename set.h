@@ -1,4 +1,11 @@
+/*
+@file: set.h
+@author: Sophie Palmer
+@date: Feb 27 2017
+ Purpose:
 
+ 
+*/
 #ifndef SET_H
 #define SET_H
 Class Set {

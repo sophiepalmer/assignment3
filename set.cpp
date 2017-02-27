@@ -1,3 +1,12 @@
+/*
+@file: set.cpp
+@author: Sophie Palmer
+@date: Feb 27 2017
+ Purpose:
+
+ 
+*/
+
 #include "set.h"
 MathSet :: MathSet(); //constructor that create empty set with no elements
 {
