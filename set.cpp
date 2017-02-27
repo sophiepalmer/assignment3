@@ -1,6 +1,9 @@
 #include "set.h"
-MathSet :: MathSet(); //create empty set with no elements
+MathSet :: MathSet(); //constructor that create empty set with no elements
 {
+size=1;
+members= new int [size];
+size = 0;
 }
 
 MathSet :: MathSet( int NumMembers, int Array[]) //constructor with 2 elements 
